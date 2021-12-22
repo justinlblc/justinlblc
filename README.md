@@ -3,7 +3,7 @@
 
 - 🔭 Last project I worked on [BE-bestiole-CPP](https://github.com/camillefm/BE-bestiole-CPP)
 
-- 🌱 I’m currently learning **Cryptography & TCP/IP protocols**
+- 🌱 I’m currently looking for an **internship in Software Development as well as Cybersecurity**
 
 - 📫 How to reach me **jleblanc.fra@gmail.com**
 
