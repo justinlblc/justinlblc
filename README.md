@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin.</h1>
 <h3 align="center">Engineering student in Software Development & Cybersecurity</h3>
 
-- 🔭 I’m currently working on [BE-bestiole-CPP](https://github.com/camillefm/BE-bestiole-CPP)
+- 🔭 Last project I worked on [BE-bestiole-CPP](https://github.com/camillefm/BE-bestiole-CPP)
 
-- 🌱 I’m currently learning **Cybersecurity basics**
+- 🌱 I’m currently learning **Cryptography & TCP/IP protocols**
 
 - 📫 How to reach me **jleblanc.fra@gmail.com**
 
